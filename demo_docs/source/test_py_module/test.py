@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Test Module for sphinx_rtd_theme."""
+"""Test Module for ushahidi_sphinx_rtd_theme."""
 
 
 class Foo:
